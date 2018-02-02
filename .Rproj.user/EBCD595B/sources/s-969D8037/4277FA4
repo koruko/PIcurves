@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1517576402793.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4277FA4",
+    "lastKnownWriteTime" : 7813877730276303717,
+    "last_content_update" : 1517576402793,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "6c3d6ea20bfc473daca69ec72fad7f90",
+        "name" : "ETR_split",
+        "title" : "ETR_split"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}
