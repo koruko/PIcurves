@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1517563020892.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3097425635",
+    "id" : "1A117C77",
+    "lastKnownWriteTime" : 1517563489,
+    "last_content_update" : 1517563719739,
+    "path" : "~/R/PIproject/PIscript.R",
+    "project_path" : "PIscript.R",
+    "properties" : {
+        "cursorPosition" : "8,44",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

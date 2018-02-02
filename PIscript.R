@@ -1,0 +1,10 @@
+#This is a R script for managing data from PAM curves
+##First we need to read the .csv file and create as many data frames as measurements we have in our raw file
+#Check the files in our WD
+list.files()
+#Change the name of the file if needed
+file.rename("PAM.CSV","PAMDATA.CSV")
+#Now let's read the csv and create a data frame from it in a new variable
+data <- read.csv("PAMDATA.CSV",header = TRUE, sep = ",", dec = ".")
+#Now we have a data frame to manage our data
+
