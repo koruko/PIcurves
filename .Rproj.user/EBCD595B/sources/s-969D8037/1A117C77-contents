@@ -7,3 +7,4 @@ file.rename("PAM.CSV","PAMDATA.CSV")
 #Now let's read the csv and create a data frame from it in a new variable
 data <- read.csv("PAMDATA.CSV",header = TRUE, sep = ",", dec = ".")
 #Now we have a data frame to manage our data
+data2 <- data.frame("data", header = TRUE, skip = 2)
